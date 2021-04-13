@@ -261,15 +261,18 @@ body {
   }
   
   .qt-plus:hover {
-    background: #53b5aa;
-    background: #00d748;
-    color: #333;
+    /* background: #53b5aa;
+    background: #00d748; */
+    /* color: #333; */
+    color:#00d748 ;
     cursor: pointer;
+    
   }
 
   .qt-minus:hover{
-    background: #ff3d57;
-    color: #333;
+    /* background: #ff3d57; */
+    /* color: #333; */
+    color:  #ff3d57;
     cursor: pointer;
   }
   
