@@ -239,6 +239,7 @@ body {
   }
   
   .qt {
+    background-color: #FC8019;;
     font-size: 19px;
     line-height: 50px;
     width: 70px;
@@ -274,10 +275,12 @@ body {
   
   .qt-plus {
     line-height: 50px;
+    color: #FC8019;
   }
   
   .qt-minus {
     line-height: 47px;
+    color: #FC8019;
   }
   
   #site-footer {
